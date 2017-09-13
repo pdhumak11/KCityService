@@ -1,0 +1,15 @@
+
+
+#clockdiv > div{
+    padding: 7px;
+    border-radius: 3px;
+    background: #666;
+    display: inline-block;
+}
+
+#clockdiv div > span{
+    padding: 10px;
+    border-radius: 3px;
+    background: black;
+    display: inline-block;
+}
